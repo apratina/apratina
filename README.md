@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi, I'm Akshay 👋👨‍💻
+I'm a self-taught developer who enjoys working on back-end APIs and libraries; sometimes will dabble in the front-end.
 
-<!--
-**apratina/apratina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Daily Technologies
+- Go 1.17
+- Elastic Search
+- Docker
+- AWS
+- K8s
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Like
+🚀 clean, quality, tested code   
+🦀 everything Go  
+🤓 reviewing PRs  
+🔥 distributed system  
+🛡️ security  
