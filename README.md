@@ -2,7 +2,7 @@
 I'm a self-taught developer who enjoys working on back-end APIs and libraries; sometimes will dabble in the front-end.
 
 ### Daily Technologies
-- Go 1.17
+- Go
 - Elastic Search
 - Docker
 - AWS
